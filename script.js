@@ -17,7 +17,7 @@ console.log(job);
 job = 'Teacher';
 console.log(job);
 
-// Variable naming rules
+// Variable naming rules should be clear
 var _3years = 3;
 var johnMark = 'John and MArk';
 var if = 23;
