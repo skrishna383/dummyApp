@@ -2,7 +2,7 @@
 * Variables and data types
 */
 /*
-var firstName = 'John';
+var firstName = 'John Cena';
 console.log(firstName);
 
 var lastName = 'Smith';
